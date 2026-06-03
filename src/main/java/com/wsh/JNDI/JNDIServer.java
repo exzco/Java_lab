@@ -1,7 +1,5 @@
 package com.wsh.JNDI;
 
-import com.sun.jndi.rmi.registry.ReferenceWrapper;
-
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.naming.Reference;

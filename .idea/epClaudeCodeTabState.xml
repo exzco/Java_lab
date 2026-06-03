@@ -7,9 +7,9 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="803eb4b9-73b6-473c-8548-3dfe7d42504f" />
+              <option name="sessionId" value="69f55b5f-7034-45f0-9ab3-d08ec6f1a12e" />
               <option name="cwd" value="$PROJECT_DIR$" />
-              <option name="model" value="claude-sonnet-4-6" />
+              <option name="model" value="deepseek-v4-pro" />
               <option name="permissionMode" value="default" />
               <option name="reasoningEffort" value="medium" />
             </TabSessionState>
